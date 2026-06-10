@@ -1,11 +1,3 @@
-- 👋 Hi, I’m @moulionmission
-- 👀 I’m interested in ...cloud computing
-- 🌱 I’m currently learning ...javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Chandramoulidasari616@gmail.com
-
-
-<!---
-moulionmission/moulionmission is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Chandu 👋
+ML Engineer | AI Systems Specialist | Data-Driven Problem Solver
+I build production-ready machine learning systems that solve real-world problems. With a strong foundation in AI systems and practical industry experience, I focus on end-to-end ML pipelines, model deployment, and data engineering.
