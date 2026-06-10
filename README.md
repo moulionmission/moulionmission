@@ -105,8 +105,8 @@ Extract and analyze structured insights from documents using vision and language
 ## 📫 Let's Connect
 
 - **Portfolio:** [moulionmission.github.io/portfolio](https://moulionmission.github.io/portfolio)
-- **Email:** [your email]
-- **LinkedIn:** [your LinkedIn]
+- **Email:** CHANDRAMOULIDASARI616@GMAIL.COM
+- **LinkedIn:** https://www.linkedin.com/in/chandramoulidasari17/
 
 ---
 
