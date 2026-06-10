@@ -32,21 +32,46 @@ Extract and analyze structured insights from documents using vision and language
 
 ## 💡 Technical Skills
 
-**Machine Learning:** Scikit-learn, XGBoost, Deep Learning (PyTorch, TensorFlow), LLMs, Causal Inference, Survival Analysis
+### 🤖 Machine Learning & AI
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6B6B?style=flat-square&logo=xgboost&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LLMs](https://img.shields.io/badge/LLMs-0D96F6?style=flat-square&logoColor=white)
+![Causal Inference](https://img.shields.io/badge/Causal%20Inference-4B8BBE?style=flat-square&logoColor=white)
 
-**Data & Engineering:** Python, SQL, Data Pipelines, ETL, Feature Engineering, pandas, Spark
+### 💻 Languages & Core Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
 
-**MLOps & Deployment:** Model serving, Monitoring, Streamlit, API development, Cloud platforms
+### 📊 Data & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF6B35?style=flat-square&logoColor=white)
 
-**Tools & Libraries:** Hugging Face, SHAP, Plotly, Git, Docker basics
+### 🚀 MLOps & Deployment
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MLOps](https://img.shields.io/badge/MLOps-43B5B0?style=flat-square&logoColor=white)
+
+### ☁️ Cloud & Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
 ---
 
 ## 📫 Let's Connect
 
 - **Portfolio:** [moulionmission.github.io/portfolio](https://moulionmission.github.io/portfolio)
-- **Email:** CHANDRAMOULIDASARI616@GMAIL.COM
-- **LinkedIn:** https://www.linkedin.com/in/chandramoulidasari17/
+- **Email:** [your email]
+- **LinkedIn:** [your LinkedIn]
 
 ---
 
