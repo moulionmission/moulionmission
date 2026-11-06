@@ -46,6 +46,15 @@ I am targeting **Software Engineer, Distributed Systems Engineer, and AI Systems
 
 ---
 
+### 4. 📡 [Remote Telemetry & Event Ingestion Platform](https://github.com/moulionmission/remote-telemetry-platform)
+> **High-throughput streaming telemetry pipeline over a 3-broker Kafka cluster with strategic Redis caching and PostgreSQL.**
+- **Fault-Tolerant Streaming:** Built a streaming telemetry pipeline handling real-time data over a **3-broker Kafka cluster** configured with partition-aware routing, idempotency, and dead-letter queues.
+- **40% Latency Reduction:** Cut streaming data access latency by **40% (250ms to 150ms)** by integrating a strategic Redis caching layer and optimizing consumer thread pooling under **10M-event load tests**.
+- **Idempotency & Resilience:** Enforced exactly-once processing semantics using atomic Redis locks (SETNX) and automated poison-pill recovery via DLQ routing.
+- **Tech Stack:** `Java` • `Spring Boot` • `Apache Kafka (3 Brokers)` • `Redis` • `PostgreSQL` • `Docker`
+
+---
+
 ## 💡 Technical Skills
 
 ### 💻 Languages
